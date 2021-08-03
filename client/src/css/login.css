@@ -1,0 +1,9 @@
+#box{
+    width:275px;
+    margin-top: 10%;
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 5px;
+    outline-width: 3px;
+    outline-color: lightgray;
+}

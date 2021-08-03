@@ -1,0 +1,14 @@
+#search-btn{
+    margin-left: 5px;
+    outline: none;
+}
+a{
+    text-decoration: none;
+    color:slategray;
+}
+a:hover{
+    color:black;
+}
+.Brand{
+    color:black;
+}
